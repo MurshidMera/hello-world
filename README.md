@@ -1,4 +1,5 @@
 # hello-world
 implementing Git Hub
 
-Shceduling is the activity of determining which request, should be handled first.
+
+Scheduling is the activity of determining which service requet should be handled first.
